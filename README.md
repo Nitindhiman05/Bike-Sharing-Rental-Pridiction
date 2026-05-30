@@ -25,7 +25,7 @@ Bike-Sharing-Rental-Prediction/
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **Source:** UCI Machine Learning Repository — Bike Sharing Dataset
 - **Records:** 731 daily entries (2011–2012)
