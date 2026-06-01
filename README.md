@@ -1,4 +1,4 @@
-# Bike Sharing Rental Prediction
+ # Bike Sharing Rental Prediction
 
 A machine learning project to predict daily bike rental demand using the UCI Bike Sharing dataset. Built with Python, Pandas, Scikit-learn, Matplotlib, and Seaborn.
 
@@ -20,7 +20,7 @@ Bike-Sharing-Rental-Prediction/
 ├── Visualisation.ipynb                    # Step 2: EDA & Visualizations
 ├── Prediction_models.ipynb                # Step 3: Model Building & Evaluation
 ├── Project_Synopsis.docx                  # Project synopsis document
-└── Code_Screen_Recording.mp4             # Code walkthrough video
+└── Code_Screen_Recording.mp4              # Code walkthrough video
 ```
 
 ---
